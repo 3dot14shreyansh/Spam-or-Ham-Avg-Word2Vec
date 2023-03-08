@@ -1,1 +1,1 @@
-# Spam-or-Ham-Avg-Word2Vec
+# Spam / Ham classification using Average Word2Vec :
